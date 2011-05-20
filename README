@@ -1,0 +1,3 @@
+Snusp compiler
+
+This is a program which compiles SNUSP ( http://c2.com/cgi/wiki?SnuspLanguage ) programs into C. The C compiler needs to support computed gotos (used for subroutine calls) in order for this to work.
